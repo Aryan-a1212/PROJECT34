@@ -30,7 +30,7 @@ Conclusion:
 The Hotel Management System effectively addresses the challenges of managing hotel operations by providing a structured and user-friendly solution. It streamlines room bookings, customer management, and waitlist handling while ensuring reliability through features like undo functionality. Built with Python and efficient data structures, the system is scalable, maintainable, and serves as a robust foundation for further enhancements, such as database integration or online booking features.
 
 
-Enrollment No: 2203031050332   Name:Aryan Ranmal Maheshwari  Class:6CSE6
+Enrollment No: 2203031050332  ||    Name:Aryan Ranmal Maheshwari ||  Class:6CSE6
 
 
 ![Screenshot 2025-01-10 180452](https://github.com/user-attachments/assets/0738377b-6b8c-46c0-a421-119a0b5d0617)
